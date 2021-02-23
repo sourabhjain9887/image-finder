@@ -1,0 +1,24 @@
+.image-list img {
+  width: 400px;
+  height: 400px;
+  margin: 5px;
+}
+
+.form {
+  text-align: center;
+}
+
+.image-input {
+  width: 250px;
+  height: 30px;
+  margin: 5px;
+  border-radius: 10px;
+  outline: none;
+}
+.image-amount {
+  width: 250px;
+  height: 30px;
+  margin: 2.5px 5px 5px 5px;
+  border-radius: 10px;
+  outline: none;
+}
